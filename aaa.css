@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    display: block;
+}
+
+#banner {
+    background-image: url(Sample-Schedule-background-1400x700.jpg);
+    height: 100vh;
+    background-size: cover;
+    
+}
+
+h1 {
+    padding-left: 65px;
+    padding-top: 150px;
+    margin: 0;
+    font-size: 45px;
+    text-shadow: 2px 2px;    
+}
+ h2 {
+    padding-left: 65px;
+    padding-top: 55px;
+    margin: 0;
+    font-size: 40px;
+ }
+
+
+
+ .ae {
+    margin-left: 70px;
+    margin-top: 100px;
+    font-size: 30px;
+    text-shadow: 1px 1px;
+ }
+
+
+.abc {
+    display: block;
+}
+
+#bonner {
+    background-image: url(Gunung-Palung-Orangutan-Conservation-Program-header-1400x700px.jpg);
+    height: 1000px;
+    background-size: cover;
+    
+}
+
+
+.beqa1 {
+    padding-left: 65px;
+    padding-top: 400px;
+    margin: 0;
+    font-size: 45px;
+    text-shadow: 2px 2px;
+}
+
+.beqa2 {
+    padding-left: 65px;
+    padding-top: 55px;
+    margin: 0;
+    font-size: 40px;
+}
+
+.beqa3 {
+    margin-left: 70px;
+    margin-top: 100px;
+    font-size: 50px;
+    text-shadow: 1px 1px;
+}
+
+.beqa4 {
+    margin-left: 30px;
+    font-size: 30px;
+    text-shadow: 1px 1px;
+}
